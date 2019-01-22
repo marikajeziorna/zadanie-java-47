@@ -1,6 +1,6 @@
 public class Line {
-    Point startPoint;
-    Point endPoint;
+   private Point startPoint;
+   private Point endPoint;
 
     public Line(Point startPoint, Point endPoint) {
         this.startPoint = startPoint;

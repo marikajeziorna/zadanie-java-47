@@ -1,6 +1,6 @@
 public class Point {
-    int x;
-    int y;
+   private int x;
+   private int y;
 
     @Override
     public String toString() {
